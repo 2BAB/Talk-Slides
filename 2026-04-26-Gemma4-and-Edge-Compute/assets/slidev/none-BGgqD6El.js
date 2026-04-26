@@ -1,1 +1,0 @@
-import{o,e as r,i as t}from"../modules/vue-ay11y6SF.js";import{_ as n}from"../index-BaNrGun6.js";const c={};function s(e,a){return o(),r("div",null,[t(e.$slots,"default")])}const f=n(c,[["render",s]]);export{f as I};
