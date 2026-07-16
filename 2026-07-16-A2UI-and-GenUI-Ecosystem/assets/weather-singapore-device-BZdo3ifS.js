@@ -1,1 +1,0 @@
-var e=`/2026-07-16-A2UI-and-GenUI-Ecosystem/weather-singapore-device.png`;export{e as t};
