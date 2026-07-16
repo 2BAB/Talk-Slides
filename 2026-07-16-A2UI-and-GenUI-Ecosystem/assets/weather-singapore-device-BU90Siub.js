@@ -1,1 +1,0 @@
-var e=`/weather-singapore-device.png`;export{e as t};
