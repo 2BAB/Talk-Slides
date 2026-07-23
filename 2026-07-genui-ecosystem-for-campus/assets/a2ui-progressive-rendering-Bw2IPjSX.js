@@ -1,0 +1,1 @@
+var e=`/2026-07-genui-ecosystem-for-campus/a2ui-progressive-rendering.webp`;export{e as t};

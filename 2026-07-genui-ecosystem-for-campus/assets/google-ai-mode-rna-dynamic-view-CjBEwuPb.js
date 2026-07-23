@@ -1,0 +1,1 @@
+var e=`/2026-07-genui-ecosystem-for-campus/google-ai-mode-rna-dynamic-view.webp`;export{e as t};
