@@ -1,0 +1,1 @@
+import{R as e,V as t,y as n}from"../modules/shiki-BHZn_a5i.js";import{vt as r}from"../index-B_H5I2S-.js";var i={};function a(r,i){return e(),n(`div`,null,[t(r.$slots,`default`)])}var o=r(i,[[`render`,a]]);export{o as t};

@@ -1,0 +1,1 @@
+var e=`/2026-11-07-From-A2UI-to-Reliable-GenUI/df26-bwg.png`;export{e as t};
